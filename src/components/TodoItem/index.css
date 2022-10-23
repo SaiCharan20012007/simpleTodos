@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.listItem {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+.btn {
+  background-color: transparent;
+  color: #ff0b37;
+  border-color: #ff0b37;
+  border-style: solid;
+  border-radius: 7px;
+  font-size: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 43px;
+  cursor: pointer;
+  outline: none;
+}
+.para {
+  font-size: 20px;
+  font-weight: 400;
+}
